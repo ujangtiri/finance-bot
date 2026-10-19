@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+auth_info/
+node_modules/
+credentials.json
+.DS_Store
